@@ -13,7 +13,7 @@
     "octokit": "^2.0.2",
     "xlsx": "^0.18.5",
     "minimist": "^1.1.0",
-    "acorn", "^6.3.0",
+    "acorn", "^6.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
